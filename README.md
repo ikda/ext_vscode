@@ -1,4 +1,5 @@
-# ext_vscode
+# ext_vscode list
+## 2019.07.18
 vscode extension list for my js base dev
 
 - JavaScript (ES6) code snippets //
